@@ -29,7 +29,7 @@
           <div class="col-md-8 ml-auto mr-auto text-center">
             <h2 class="title">Who we are?</h2>
             <h5 class="description">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed justo nibh, feugiat sit amet gravida in, cursus vitae mi. Aenean placerat orci at tincidunt bibendum. Morbi erat nibh, fermentum eget faucibus eget, ornare in dui. Nulla rhoncus hendrerit eros, in auctor eros cursus quis. Ut sagittis fermentum mauris vitae varius. Morbi pretium eleifend lorem nec facilisis. Donec at nunc varius, fringilla dolor sed, eleifend lectus. Nulla porta massa eu nunc vehicula posuere. Sed gravida aliquet orci luctus placerat. Quisque varius purus et porta posuere. Nulla tincidunt porta nunc nec pretium. Duis bibendum lacinia nisi a placerat. Vestibulum suscipit scelerisque aliquet. Quisque quis tempor nulla.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.. Sed justo nibh, feugiat sit amet gravida in, cursus vitae mi. Aenean placerat orci at tincidunt bibendum. Morbi erat nibh, fermentum eget faucibus eget, ornare in dui. Nulla rhoncus hendrerit eros, in auctor eros cursus quis. Ut sagittis fermentum mauris vitae varius. Morbi pretium eleifend lorem nec facilisis. Donec at nunc varius, fringilla dolor sed, eleifend lectus. Nulla porta massa eu nunc vehicula posuere. Sed gravida aliquet orci luctus placerat. Quisque varius purus et porta posuere. Nulla tincidunt porta nunc nec pretium. Duis bibendum lacinia nisi a placerat. Vestibulum suscipit scelerisque aliquet. Quisque quis tempor nulla.
             </h5>
           </div>
         </div>
